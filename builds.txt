@@ -8,7 +8,7 @@ kodi="18.0"
 theme="http://"
 icon="https://i.imgur.com/ug8Ulam.png"
 fanart="https://i.imgur.com/g8eA4CT.jpg"
-preview="https://"
+preview="https://i.imgur.com/ZaLcbQM.png"
 adult="no"
 description="A build made to make life easier for all your viewing needs. Made by PickleRicked!"
 
