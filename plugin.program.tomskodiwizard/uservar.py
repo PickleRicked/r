@@ -12,7 +12,7 @@ ADDONTITLE     = '[B][COLOR blue]Toms Kodi Wizard[/COLOR][/B]'
 BUILDERNAME    = 'PickleRicked'
 #########################Make sure to change the repo to yours!!!!
 EXCLUDES       = [ADDON_ID, 'repository.picklerick', 'My_Builds', 'backupdir']
-BUILDFILE      = 'https://bit.ly/3u9o5aP'
+BUILDFILE      = 'https://picklericked.github.io/r/builds.txt'
 UPDATECHECK    = 0
 APKFILE        = 'http:'
 YOUTUBETITLE   = 'http://'
