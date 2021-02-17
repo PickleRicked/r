@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.program.tomskodiwizard" name=" [B][COLOR deepskyblue]-PickleRicked Kodi Wizard-[/COLOR][/B]" version="1.6" provider-name="[B][COLOR green]PickleRicked[/COLOR][/B]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Toms Kodi Wizard</summary>
+    <description lang="en">This be the tool ya'll need to get dem builds ya hear. Thanks whufclee at NaN, GUYS at TI, Brackets for the app installer!! RomanVM for the PyXBMCt libs. Fire TV Guru for the PyXBMCt layout  Also a very special Thanks to Surfacingx for the code used in this add-on.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.tomskodi" name="Toms Kodi" version="1.0" provider-name="PickleRicked">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/PickleRicked/.github.io/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/PickleRicked/.github.io/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/PickleRicked/.github.io/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Toms Repository</summary>
+        <description>PickleRick bringing you all the fun! We got Movies, TV shows, Sports, Live TV and even stuff for those kiddies. Hells yeah!</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>
