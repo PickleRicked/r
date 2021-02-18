@@ -1,12 +1,12 @@
 
 
-name="picklericked"
-version="1.0"
-url="https://bit.ly/3u9o5aP"
+name="Toms Kodi"
+version="1.1"
+url="https://bit.ly/3jYXZCJ"
 gui="http://"
 kodi="18.0"
 theme="http://"
-icon="https://i.imgur.com/ZaLcbQM.png"
+icon="https://i.imgur.com/ug8Ulam.png"
 fanart="https://i.imgur.com/g8eA4CT.jpg"
 preview="https://"
 adult="no"
