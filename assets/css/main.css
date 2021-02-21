@@ -163,6 +163,14 @@
 		text-transform: none;
 	}
 
+	img {
+    		border-style: none;
+    		vertical-align: top;
+    		max-width: 100%;
+    		height: auto;
+	}
+	
+
 	body, input, select, textarea {
 		color: #414f57;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
