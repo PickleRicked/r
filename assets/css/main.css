@@ -168,6 +168,7 @@
     		vertical-align: top;
     		max-width: 100%;
     		height: auto;
+		padding-bottom- 0.5em;
 	}
 	
 
@@ -975,7 +976,7 @@
 		@media screen and (max-width: 480px) {
 
 			#main {
-				padding: 4em 2em 2.5em 2em ;
+				padding: 3em 2em 1em 1.2em ;
 				width: 100%;
 			}
 
