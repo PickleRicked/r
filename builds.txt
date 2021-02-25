@@ -1,25 +1,17 @@
 
 
-name="picklericked"
-version="1.0"
-url="https://bit.ly/3u9o5aP"
+name="Toms Kodi"
+version="1.2"
+url="https://bit.ly/3k3byRE"
 gui="http://"
 kodi="18.0"
 theme="http://"
 icon="https://i.imgur.com/ug8Ulam.png"
 fanart="https://i.imgur.com/g8eA4CT.jpg"
-preview="https://i.imgur.com/ZaLcbQM.png"
+preview="https://"
 adult="no"
 description="A build made to make life easier for all your viewing needs. Made by PickleRicked!"
 
-name="25cents"
-version="1.0"
-url="https://bit.ly/2Ncn6WS"
-gui="http://"
-kodi="18.0"
-theme="http://"
-icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnOMK4JrhR-nSSUNjEmgRFyBipxK10P9jZw&usqp=CAU"
-fanart="https://i.imgur.com/g8eA4CT.jpg"
-preview="https://"
-adult="no"
-description="When ya low on cash. Made by PickleRicked!"
+
+
+
