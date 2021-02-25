@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.picklerickwizard" name=" [B][COLOR lime]PickleRick Wizard[/COLOR][/B]" version="1.6" provider-name="[B][COLOR blue]PickleRick[/COLOR][/B]">
+<addon id="plugin.program.picklerickwizard" name=" [B][COLOR lime]PickleRick Wizard[/COLOR][/B]" version="1.7" provider-name="[B][COLOR blue]PickleRick[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -12,6 +12,34 @@
     <summary lang="en">PickleRick Wizard</summary>
     <description lang="en">This be the tool ya'll need to get dem builds ya hear. Thanks whufclee at NaN, GUYS at TI, Brackets for the app installer!! RomanVM for the PyXBMCt libs. Fire TV Guru for the PyXBMCt layout  Also a very special Thanks to Surfacingx for the code used in this add-on.</description>
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.pickletools"
+              name="[COLOR lime]PickleRicked[/COLOR] [COLOR white]Tools[/COLOR]"
+              version="1.1"
+              provider-name="PickleRicked">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">[COLOR lime]PickleRicked[/COLOR] - [COLOR white]Tools[/COLOR]</summary>
+    <description lang="en">PickleRicked Gonna Help Ya Clean Ya Shit With a Collection of Kodi Tools and Utilities</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
 

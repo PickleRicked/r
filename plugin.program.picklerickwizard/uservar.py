@@ -11,8 +11,8 @@ ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[B][COLOR lime]PickleRicked Kodi Wizard[/COLOR][/B]'
 BUILDERNAME    = 'PickleRicked Wizard'
 #########################Make sure to change the repo to yours!!!!
-EXCLUDES       = [ADDON_ID, 'repository.tomskodi', 'My_Builds', 'backupdir']
-BUILDFILE      = 'http://PickleRicked.github.io/r/builds.txt'
+EXCLUDES       = [ADDON_ID, 'repository.picklerick', 'My_Builds', 'backupdir']
+BUILDFILE      = 'https://picklericked.github.io/r/builds.txt'
 UPDATECHECK    = 0
 APKFILE        = 'http://'
 YOUTUBETITLE   = 'http://'
@@ -163,5 +163,5 @@ HEADERIMAGE    = ''
 # Font for Notification Window
 FONTSETTINGS   = 'Font12'
 # Background for Notification Window
-BACKGROUND     = 'https://i.imgur.com/g8eA4CT.jpg'
+BACKGROUND     = 'https://i.imgur.com/Ygc24EY.jpg'
 ############################    #############################
