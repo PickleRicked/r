@@ -12,6 +12,18 @@ preview="https://"
 adult="no"
 description="A build made to make life easier for all your viewing needs. Made by PickleRicked!"
 
+name="Mike's Kodi"
+version="1.0"
+url="https://bit.ly/304GpnW"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="https://i.imgur.com/XsXeOMH.png"
+fanart="https://i.imgur.com/Ygc24EY.jpg"
+preview="https://"
+adult="no"
+description="A build made for me by me. Made by PickleRicked!"
+
 
 
 
