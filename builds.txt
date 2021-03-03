@@ -13,7 +13,7 @@ adult="no"
 description="A build made to make life easier for all your viewing needs. Made by PickleRicked!"
 
 name="Mike's Kodi"
-version="1.3
+version="1.3"
 url="https://bit.ly/307QtMT"
 gui="http://"
 kodi="18.0"
