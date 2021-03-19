@@ -24,19 +24,10 @@ preview="https://"
 adult="no"
 description="A build made for me by me. Made by PickleRicked!"
 
-name="Gemma Kodi"
-version="1.0"
-url="name="Mike's Kodi"
-version="1.4"
-url="https://bit.ly/30l5Em2"
-gui="http://"
-kodi="18.0"
-theme="http://"
-icon="https://i.imgur.com/XsXeOMH.png"
-fanart="https://i.imgur.com/Ygc24EY.jpg"
-preview="https://"
-adult="no"
-description="A build made for me by me. Made by PickleRicked!""
+
+name="Gemma's Kodi"
+version="1.1"
+url="https://bit.ly/2Qej4OK"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -45,7 +36,4 @@ fanart="https://i.imgur.com/Ygc24EY.jpg"
 preview="https://"
 adult="no"
 description="A build made for me by me. Made by PickleRicked!"
-
-
-
 
