@@ -27,7 +27,7 @@ description="A build made for me by me. Made by PickleRicked!"
 
 name="Gemma's Kodi"
 version="1.1"
-url="https://bit.ly/2Qej4OK"
+url="bit.ly/3qVO6ru1"
 gui="http://"
 kodi="18.0"
 theme="http://"
